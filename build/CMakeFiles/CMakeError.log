@@ -1,0 +1,73 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_93afb/fast && C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_93afb.dir\build.make CMakeFiles/cmTC_93afb.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_93afb.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_93afb.dir\CheckIncludeFile.c.obj -c D:\OneDrive\live\6.837\comp_graphics\assignment_handouts\assn0\assn0\starter0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+D:\OneDrive\live\6.837\comp_graphics\assignment_handouts\assn0\assn0\starter0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: pthread.h: No such file or directory
+    1 | #include <pthread.h>
+      |          ^~~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_93afb.dir\build.make:77: CMakeFiles/cmTC_93afb.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_93afb/fast] Error 2
+
+
+
+Determining if the include file dinput.h exists failed with the following output:
+Change Dir: D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_ce2cd/fast && C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_ce2cd.dir\build.make CMakeFiles/cmTC_ce2cd.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ce2cd.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_ce2cd.dir\CheckIncludeFile.c.obj -c D:\OneDrive\live\6.837\comp_graphics\assignment_handouts\assn0\assn0\starter0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+D:\OneDrive\live\6.837\comp_graphics\assignment_handouts\assn0\assn0\starter0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: dinput.h: No such file or directory
+    1 | #include <dinput.h>
+      |          ^~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ce2cd.dir\build.make:77: CMakeFiles/cmTC_ce2cd.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_ce2cd/fast] Error 2
+
+
+
+Determining if the include file xinput.h exists failed with the following output:
+Change Dir: D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_626d7/fast && C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_626d7.dir\build.make CMakeFiles/cmTC_626d7.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_626d7.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_626d7.dir\CheckIncludeFile.c.obj -c D:\OneDrive\live\6.837\comp_graphics\assignment_handouts\assn0\assn0\starter0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+D:\OneDrive\live\6.837\comp_graphics\assignment_handouts\assn0\assn0\starter0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: xinput.h: No such file or directory
+    1 | #include <xinput.h>
+      |          ^~~~~~~~~~
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_626d7.dir\build.make:77: CMakeFiles/cmTC_626d7.dir/CheckIncludeFile.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_626d7/fast] Error 2
+
+
+
+Performing C SOURCE FILE Test _GLFW_HAS_64ASLR failed with the following output:
+Change Dir: D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_47fb8/fast && C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_47fb8.dir\build.make CMakeFiles/cmTC_47fb8.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_47fb8.dir/src.c.obj
+C:\MinGW\bin\mingw32-gcc.exe -D_GLFW_HAS_64ASLR  -Wl,--high-entropy-va -o CMakeFiles\cmTC_47fb8.dir\src.c.obj -c D:\OneDrive\live\6.837\comp_graphics\assignment_handouts\assn0\assn0\starter0\build\CMakeFiles\CMakeTmp\src.c
+Linking C executable cmTC_47fb8.exe
+"C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_47fb8.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_47fb8.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\cmTC_47fb8.dir/objects.a @CMakeFiles\cmTC_47fb8.dir\objects1.rsp
+C:\MinGW\bin\mingw32-gcc.exe  -Wl,--high-entropy-va -Wl,--whole-archive CMakeFiles\cmTC_47fb8.dir/objects.a -Wl,--no-whole-archive -o cmTC_47fb8.exe -Wl,--out-implib,libcmTC_47fb8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_47fb8.dir\linklibs.rsp
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: unrecognized option '--high-entropy-va'
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: use the --help option for usage information
+collect2.exe: error: ld returned 1 exit status
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_47fb8.dir\build.make:100: cmTC_47fb8.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_47fb8/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
