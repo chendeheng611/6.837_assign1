@@ -380,8 +380,8 @@ const std::vector<tinyobj::shape_t>& shapes,
 const std::vector<tinyobj::material_t>& materials)
 {  
      //drawTriangle();
-    //drawObjMesh(attrib, shapes, materials);
-   drawTeapot();
+    drawObjMesh(attrib, shapes, materials);
+   //drawTeapot();
 }
 
 void setViewport(GLFWwindow* window)
