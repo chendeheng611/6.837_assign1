@@ -3,7 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/gears.dir/__/deps/glad.c.obj.d"
   "CMakeFiles/gears.dir/gears.c.obj"
   "CMakeFiles/gears.dir/gears.c.obj.d"
-  "CMakeFiles/gears.dir/glfw.rc.obj"
+  "CMakeFiles/gears.dir/glfw.rc.res"
   "gears.exe"
   "gears.exe.manifest"
   "gears.pdb"

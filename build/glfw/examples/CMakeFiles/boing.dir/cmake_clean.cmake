@@ -3,7 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/boing.dir/__/deps/glad.c.obj.d"
   "CMakeFiles/boing.dir/boing.c.obj"
   "CMakeFiles/boing.dir/boing.c.obj.d"
-  "CMakeFiles/boing.dir/glfw.rc.obj"
+  "CMakeFiles/boing.dir/glfw.rc.res"
   "boing.exe"
   "boing.exe.manifest"
   "boing.pdb"

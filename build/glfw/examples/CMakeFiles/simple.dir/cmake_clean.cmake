@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/simple.dir/__/deps/glad.c.obj"
   "CMakeFiles/simple.dir/__/deps/glad.c.obj.d"
-  "CMakeFiles/simple.dir/glfw.rc.obj"
+  "CMakeFiles/simple.dir/glfw.rc.res"
   "CMakeFiles/simple.dir/simple.c.obj"
   "CMakeFiles/simple.dir/simple.c.obj.d"
   "libsimple.dll.a"

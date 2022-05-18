@@ -1,4 +1,4 @@
-# Install script for directory: D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw
+# Install script for directory: C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -12,7 +12,7 @@ if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
     string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
            CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
   else()
-    set(CMAKE_INSTALL_CONFIG_NAME "Release")
+    set(CMAKE_INSTALL_CONFIG_NAME "Debug")
   endif()
   message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
 endif()
@@ -34,17 +34,17 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/MinGW/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/msys64/mingw64/bin/objdump.exe")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/include/GLFW" FILES_MATCHING REGEX "/glfw3\\.h$" REGEX "/glfw3native\\.h$")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/include/GLFW" FILES_MATCHING REGEX "/glfw3\\.h$" REGEX "/glfw3native\\.h$")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3" TYPE FILE FILES
-    "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src/glfw3Config.cmake"
-    "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src/glfw3ConfigVersion.cmake"
+    "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src/glfw3Config.cmake"
+    "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src/glfw3ConfigVersion.cmake"
     )
 endif()
 
@@ -52,7 +52,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3/glfw3Targets.cmake")
     file(DIFFERENT EXPORT_FILE_CHANGED FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3/glfw3Targets.cmake"
-         "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets.cmake")
+         "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets.cmake")
     if(EXPORT_FILE_CHANGED)
       file(GLOB OLD_CONFIG_FILES "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3/glfw3Targets-*.cmake")
       if(OLD_CONFIG_FILES)
@@ -61,22 +61,21 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
       endif()
     endif()
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3" TYPE FILE FILES "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets.cmake")
-  if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Rr][Ee][Ll][Ee][Aa][Ss][Ee])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3" TYPE FILE FILES "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets-release.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3" TYPE FILE FILES "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets.cmake")
+  if("${CMAKE_INSTALL_CONFIG_NAME}" MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glfw3" TYPE FILE FILES "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/CMakeFiles/Export/lib/cmake/glfw3/glfw3Targets-debug.cmake")
   endif()
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src/glfw3.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src/glfw3.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src/cmake_install.cmake")
-  include("D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples/cmake_install.cmake")
-  include("D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests/cmake_install.cmake")
-  include("D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/docs/cmake_install.cmake")
+  include("C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src/cmake_install.cmake")
+  include("C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples/cmake_install.cmake")
+  include("C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests/cmake_install.cmake")
 
 endif()
 

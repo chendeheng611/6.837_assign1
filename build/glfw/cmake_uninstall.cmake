@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: \"D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/install_manifest.txt\"")
+if (NOT EXISTS "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/install_manifest.txt\"")
 endif()
 
-file(READ "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/install_manifest.txt" files)
+file(READ "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

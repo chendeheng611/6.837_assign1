@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/splitview.dir/__/deps/glad.c.obj"
   "CMakeFiles/splitview.dir/__/deps/glad.c.obj.d"
-  "CMakeFiles/splitview.dir/glfw.rc.obj"
+  "CMakeFiles/splitview.dir/glfw.rc.res"
   "CMakeFiles/splitview.dir/splitview.c.obj"
   "CMakeFiles/splitview.dir/splitview.c.obj.d"
   "libsplitview.dll.a"

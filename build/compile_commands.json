@@ -1,442 +1,447 @@
 [
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\a0.dir\\glew\\src\\glew.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glew\\src\\glew.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glew/src/glew.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_C.rsp -g -o CMakeFiles/a0.dir/glew/src/glew.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glew/src/glew.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glew/src/glew.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\a0.dir\\src\\main.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\src\\main.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/src/main.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_CXX.rsp -g -o CMakeFiles/a0.dir/src/main.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/main.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/main.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\a0.dir\\src\\starter0_util.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\src\\starter0_util.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/src/starter0_util.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_CXX.rsp -g -o CMakeFiles/a0.dir/src/starter0_util.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/starter0_util.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/starter0_util.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\a0.dir\\src\\recorder.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\src\\recorder.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/src/recorder.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/a0.dir/includes_CXX.rsp -g -o CMakeFiles/a0.dir/src/recorder.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/recorder.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/recorder.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\context.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/context.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/context.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/context.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/context.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\init.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/init.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/init.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/init.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/init.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\input.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/input.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/input.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/input.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/input.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\monitor.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/monitor.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/monitor.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/monitor.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/monitor.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\vulkan.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/vulkan.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/vulkan.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/vulkan.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/vulkan.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\window.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/window.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/window.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/window.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/window.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\win32_init.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/win32_init.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/win32_init.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_init.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_init.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\win32_joystick.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/win32_joystick.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/win32_joystick.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_joystick.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_joystick.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\win32_monitor.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/win32_monitor.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/win32_monitor.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_monitor.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_monitor.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\win32_time.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/win32_time.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/win32_time.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_time.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_time.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\win32_tls.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\win32_tls.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/win32_tls.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/win32_tls.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_tls.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_tls.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\win32_window.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/win32_window.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/win32_window.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_window.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/win32_window.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\wgl_context.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/wgl_context.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/wgl_context.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/wgl_context.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/wgl_context.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/src",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -O3 -DNDEBUG -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\src\\egl_context.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/src/egl_context.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/src",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_USE_CONFIG_H @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -o CMakeFiles/glfw.dir/egl_context.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/egl_context.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/src/egl_context.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/boing.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\boing.dir\\boing.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\examples\\boing.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/examples/boing.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/boing.dir/includes_C.rsp -g -o CMakeFiles/boing.dir/boing.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/boing.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/boing.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/boing.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\boing.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/boing.dir/includes_C.rsp -g -o CMakeFiles/boing.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/gears.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\gears.dir\\gears.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\examples\\gears.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/examples/gears.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/gears.dir/includes_C.rsp -g -o CMakeFiles/gears.dir/gears.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/gears.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/gears.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/gears.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\gears.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/gears.dir/includes_C.rsp -g -o CMakeFiles/gears.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/heightmap.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\heightmap.dir\\heightmap.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\examples\\heightmap.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/examples/heightmap.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/heightmap.dir/includes_C.rsp -g -o CMakeFiles/heightmap.dir/heightmap.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/heightmap.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/heightmap.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/heightmap.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\heightmap.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/heightmap.dir/includes_C.rsp -g -o CMakeFiles/heightmap.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\particles.dir\\particles.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\examples\\particles.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/examples/particles.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -g -o CMakeFiles/particles.dir/particles.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/particles.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/particles.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\particles.dir\\__\\deps\\tinycthread.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\tinycthread.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/tinycthread.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -g -o CMakeFiles/particles.dir/__/deps/tinycthread.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/tinycthread.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/tinycthread.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\particles.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -g -o CMakeFiles/particles.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\particles.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/particles.dir/includes_C.rsp -g -o CMakeFiles/particles.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/simple.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\simple.dir\\simple.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\examples\\simple.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/examples/simple.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/simple.dir/includes_C.rsp -g -o CMakeFiles/simple.dir/simple.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/simple.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/simple.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/simple.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\simple.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/simple.dir/includes_C.rsp -g -o CMakeFiles/simple.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/splitview.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\splitview.dir\\splitview.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\examples\\splitview.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/examples/splitview.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/splitview.dir/includes_C.rsp -g -o CMakeFiles/splitview.dir/splitview.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/splitview.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/splitview.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/splitview.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\splitview.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/splitview.dir/includes_C.rsp -g -o CMakeFiles/splitview.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/wave.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\wave.dir\\wave.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\examples\\wave.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/examples/wave.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/wave.dir/includes_C.rsp -g -o CMakeFiles/wave.dir/wave.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/wave.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/examples/wave.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/examples",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/wave.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\wave.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/examples",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/wave.dir/includes_C.rsp -g -o CMakeFiles/wave.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/clipboard.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\clipboard.dir\\clipboard.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\clipboard.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/clipboard.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/clipboard.dir/includes_C.rsp -g -o CMakeFiles/clipboard.dir/clipboard.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/clipboard.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/clipboard.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/clipboard.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\clipboard.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/clipboard.dir/includes_C.rsp -g -o CMakeFiles/clipboard.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/clipboard.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\clipboard.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/clipboard.dir/includes_C.rsp -g -o CMakeFiles/clipboard.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/events.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\events.dir\\events.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\events.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/events.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/events.dir/includes_C.rsp -g -o CMakeFiles/events.dir/events.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/events.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/events.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/events.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\events.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/events.dir/includes_C.rsp -g -o CMakeFiles/events.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/events.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\events.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/events.dir/includes_C.rsp -g -o CMakeFiles/events.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/msaa.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\msaa.dir\\msaa.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\msaa.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/msaa.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/msaa.dir/includes_C.rsp -g -o CMakeFiles/msaa.dir/msaa.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/msaa.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/msaa.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/msaa.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\msaa.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/msaa.dir/includes_C.rsp -g -o CMakeFiles/msaa.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/msaa.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\msaa.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/msaa.dir/includes_C.rsp -g -o CMakeFiles/msaa.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/gamma.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\gamma.dir\\gamma.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\gamma.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/gamma.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/gamma.dir/includes_C.rsp -g -o CMakeFiles/gamma.dir/gamma.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/gamma.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/gamma.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/gamma.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\gamma.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/gamma.dir/includes_C.rsp -g -o CMakeFiles/gamma.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/gamma.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\gamma.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/gamma.dir/includes_C.rsp -g -o CMakeFiles/gamma.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/glfwinfo.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\glfwinfo.dir\\glfwinfo.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\glfwinfo.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/glfwinfo.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/glfwinfo.dir/includes_C.rsp -g -o CMakeFiles/glfwinfo.dir/glfwinfo.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/glfwinfo.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/glfwinfo.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/glfwinfo.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\glfwinfo.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/glfwinfo.dir/includes_C.rsp -g -o CMakeFiles/glfwinfo.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/glfwinfo.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\glfwinfo.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/glfwinfo.dir/includes_C.rsp -g -o CMakeFiles/glfwinfo.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/iconify.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\iconify.dir\\iconify.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\iconify.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/iconify.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/iconify.dir/includes_C.rsp -g -o CMakeFiles/iconify.dir/iconify.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/iconify.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/iconify.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/iconify.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\iconify.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/iconify.dir/includes_C.rsp -g -o CMakeFiles/iconify.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/iconify.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\iconify.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/iconify.dir/includes_C.rsp -g -o CMakeFiles/iconify.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/joysticks.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\joysticks.dir\\joysticks.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\joysticks.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/joysticks.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/joysticks.dir/includes_C.rsp -g -o CMakeFiles/joysticks.dir/joysticks.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/joysticks.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/joysticks.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/joysticks.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\joysticks.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/joysticks.dir/includes_C.rsp -g -o CMakeFiles/joysticks.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/monitors.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\monitors.dir\\monitors.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\monitors.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/monitors.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/monitors.dir/includes_C.rsp -g -o CMakeFiles/monitors.dir/monitors.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/monitors.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/monitors.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/monitors.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\monitors.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/monitors.dir/includes_C.rsp -g -o CMakeFiles/monitors.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/monitors.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\monitors.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/monitors.dir/includes_C.rsp -g -o CMakeFiles/monitors.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/reopen.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\reopen.dir\\reopen.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\reopen.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/reopen.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/reopen.dir/includes_C.rsp -g -o CMakeFiles/reopen.dir/reopen.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/reopen.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/reopen.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/reopen.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\reopen.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/reopen.dir/includes_C.rsp -g -o CMakeFiles/reopen.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/cursor.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\cursor.dir\\cursor.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\cursor.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/cursor.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/cursor.dir/includes_C.rsp -g -o CMakeFiles/cursor.dir/cursor.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/cursor.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/cursor.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/cursor.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\cursor.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/cursor.dir/includes_C.rsp -g -o CMakeFiles/cursor.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/empty.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\empty.dir\\empty.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\empty.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/empty.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/empty.dir/includes_C.rsp -g -o CMakeFiles/empty.dir/empty.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/empty.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/empty.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/empty.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\empty.dir\\__\\deps\\tinycthread.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\tinycthread.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/tinycthread.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/empty.dir/includes_C.rsp -g -o CMakeFiles/empty.dir/__/deps/tinycthread.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/tinycthread.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/tinycthread.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/empty.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\empty.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/empty.dir/includes_C.rsp -g -o CMakeFiles/empty.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/icon.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\icon.dir\\icon.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\icon.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/icon.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/icon.dir/includes_C.rsp -g -o CMakeFiles/icon.dir/icon.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/icon.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/icon.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/icon.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\icon.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/icon.dir/includes_C.rsp -g -o CMakeFiles/icon.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/sharing.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\sharing.dir\\sharing.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\sharing.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/sharing.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/sharing.dir/includes_C.rsp -g -o CMakeFiles/sharing.dir/sharing.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/sharing.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/sharing.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/sharing.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\sharing.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/sharing.dir/includes_C.rsp -g -o CMakeFiles/sharing.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/tearing.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\tearing.dir\\tearing.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\tearing.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/tearing.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/tearing.dir/includes_C.rsp -g -o CMakeFiles/tearing.dir/tearing.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/tearing.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/tearing.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/tearing.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\tearing.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/tearing.dir/includes_C.rsp -g -o CMakeFiles/tearing.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/tearing.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\tearing.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/tearing.dir/includes_C.rsp -g -o CMakeFiles/tearing.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/threads.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\threads.dir\\threads.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\threads.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/threads.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/threads.dir/includes_C.rsp -g -o CMakeFiles/threads.dir/threads.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/threads.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/threads.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/threads.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\threads.dir\\__\\deps\\tinycthread.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\tinycthread.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/tinycthread.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/threads.dir/includes_C.rsp -g -o CMakeFiles/threads.dir/__/deps/tinycthread.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/tinycthread.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/tinycthread.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/threads.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\threads.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/threads.dir/includes_C.rsp -g -o CMakeFiles/threads.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/timeout.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\timeout.dir\\timeout.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\timeout.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/timeout.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/timeout.dir/includes_C.rsp -g -o CMakeFiles/timeout.dir/timeout.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/timeout.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/timeout.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/timeout.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\timeout.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/timeout.dir/includes_C.rsp -g -o CMakeFiles/timeout.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/title.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\title.dir\\title.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\title.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/title.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/title.dir/includes_C.rsp -g -o CMakeFiles/title.dir/title.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/title.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/title.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/title.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\title.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/title.dir/includes_C.rsp -g -o CMakeFiles/title.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/windows.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\windows.dir\\windows.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\tests\\windows.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/tests/windows.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/windows.dir/includes_C.rsp -g -o CMakeFiles/windows.dir/windows.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/windows.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/windows.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/windows.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\windows.dir\\__\\deps\\getopt.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\getopt.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/getopt.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/windows.dir/includes_C.rsp -g -o CMakeFiles/windows.dir/__/deps/getopt.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/getopt.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/glfw/tests",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/windows.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\windows.dir\\__\\deps\\glad.c.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\glfw\\deps\\glad.c",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/glfw/deps/glad.c"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/windows.dir/includes_C.rsp -g -o CMakeFiles/windows.dir/__/deps/glad.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/deps/glad.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/vecmath",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\vecmath.dir\\Matrix2f.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\vecmath\\Matrix2f.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/vecmath/Matrix2f.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/glfw/tests",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe  @CMakeFiles/vulkan.dir/includes_C.rsp -g -o CMakeFiles/vulkan.dir/vulkan.c.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/vulkan.c",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/tests/vulkan.c"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/vecmath",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\vecmath.dir\\Matrix3f.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\vecmath\\Matrix3f.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/vecmath/Matrix3f.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/vecmath",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -o CMakeFiles/vecmath.dir/Matrix2f.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Matrix2f.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Matrix2f.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/vecmath",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\vecmath.dir\\Matrix4f.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\vecmath\\Matrix4f.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/vecmath/Matrix4f.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/vecmath",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -o CMakeFiles/vecmath.dir/Matrix3f.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Matrix3f.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Matrix3f.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/vecmath",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\vecmath.dir\\Quat4f.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\vecmath\\Quat4f.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/vecmath/Quat4f.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/vecmath",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -o CMakeFiles/vecmath.dir/Matrix4f.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Matrix4f.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Matrix4f.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/vecmath",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\vecmath.dir\\Vector2f.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\vecmath\\Vector2f.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/vecmath/Vector2f.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/vecmath",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -o CMakeFiles/vecmath.dir/Quat4f.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Quat4f.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Quat4f.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/vecmath",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\vecmath.dir\\Vector3f.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\vecmath\\Vector3f.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/vecmath/Vector3f.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/vecmath",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -o CMakeFiles/vecmath.dir/Vector2f.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Vector2f.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Vector2f.cpp"
 },
 {
-  "directory": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/build/vecmath",
-  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\vecmath.dir\\Vector4f.cpp.obj -c D:\\OneDrive\\live\\6.837\\comp_graphics\\assignment_handouts\\assn0\\assn0\\starter0\\vecmath\\Vector4f.cpp",
-  "file": "D:/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/starter0/vecmath/Vector4f.cpp"
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/vecmath",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -o CMakeFiles/vecmath.dir/Vector3f.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Vector3f.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Vector3f.cpp"
+},
+{
+  "directory": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/build/vecmath",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -DGLEW_STATIC @CMakeFiles/vecmath.dir/includes_CXX.rsp -g -o CMakeFiles/vecmath.dir/Vector4f.cpp.obj -c C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Vector4f.cpp",
+  "file": "C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/vecmath/Vector4f.cpp"
 }
 ]

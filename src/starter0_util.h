@@ -57,7 +57,7 @@ void main () {
     gl_Position = P * V * M * vec4(Position, 1);
 
     // transform vertex position and normal
-    // into world coordinates
+    // into world coordinates??? how can you just N * normal .xyz
     vec3 normal_world = (N * vec4(Normal, 1)).xyz;
     normal_world = normalize(normal_world);
 
@@ -87,8 +87,9 @@ void main () {
     //GLSL中只能使用一维数组。数组的类型可以是一切基本类型或者结构体。
 
     // 4. Add specular and diffuse contributions
-    var_Color = vec4(diffContrib + specContrib , diffColor.w );
-    // var_Color = vec4(diffContrib + specContrib + ambient_light.xyz , diffColor.w );
+    vec4 ambient_light = vec4(0.5,0.2,0.3,0);
+    //var_Color = vec4(diffContrib + specContrib , diffColor.w );
+    var_Color = vec4(diffContrib + specContrib + ambient_light.xyz + ambient_light.xyz , diffColor.w );
 
     // mat2 m = mat2(1,2,3,4);[1,3]
     //                       [2,4]
@@ -112,8 +113,8 @@ layout(location=0) out vec4 out_Color;
 */
 
 void main () {
-    vec4 ambient_light = vec4(0.5,0.2,0.3,0);
-    out_Color = var_Color + ambient_light;
+
+    out_Color = var_Color ;
 }
 )RAWSTR";
 

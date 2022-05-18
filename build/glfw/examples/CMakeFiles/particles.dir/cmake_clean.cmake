@@ -5,7 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/particles.dir/__/deps/glad.c.obj.d"
   "CMakeFiles/particles.dir/__/deps/tinycthread.c.obj"
   "CMakeFiles/particles.dir/__/deps/tinycthread.c.obj.d"
-  "CMakeFiles/particles.dir/glfw.rc.obj"
+  "CMakeFiles/particles.dir/glfw.rc.res"
   "CMakeFiles/particles.dir/particles.c.obj"
   "CMakeFiles/particles.dir/particles.c.obj.d"
   "libparticles.dll.a"
