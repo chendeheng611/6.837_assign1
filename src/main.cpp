@@ -107,12 +107,15 @@ void mouse_move_callback(GLFWwindow* window, double x_pos, double y_pos)
         // double y_offset = x_pos - last_pos[0];// 前面的y是物体空间的，其正方向是屏幕的右侧 
         // double x_offset = y_pos - last_pos[1];
 
-        Vector2f offset(x_pos - last_pos[0],y_pos - last_pos[1]);
+        Vector2f offset(x_pos - last_pos[0], y_pos - last_pos[1]);//x正方向向右，y正反向向下
 
         Vector3f eye_light = (eye-center).normalized();
         Vector3f right = Vector3f::cross(up, eye_light);
+        up.print();
+        cout<<"_______"<<endl;
+        right.print();
 
-        pos_offset += right * offset[0] * 0.005f;
+        pos_offset += right * offset[0] * 0.005f;//将x方向的移动转换到世界空间？
         pos_offset += up * -offset[1] * 0.005f; 
 
         last_pos[0] = (float)x_pos;
@@ -380,8 +383,8 @@ const std::vector<tinyobj::shape_t>& shapes,
 const std::vector<tinyobj::material_t>& materials)
 {  
      //drawTriangle();
-    drawObjMesh(attrib, shapes, materials);
-   //drawTeapot();
+    //drawObjMesh(attrib, shapes, materials);
+   drawTeapot();
 }
 
 void setViewport(GLFWwindow* window)
@@ -437,10 +440,10 @@ void updateCameraUniforms(float i)
     //M = M.rotateX(1.0f);
     // M = M.rotateY(30.0*3.14/180.0);
     
-    M =  Matrix4f::scaling(coef,coef,coef) * Matrix4f::rotateX(xangle) * M.rotateX(rox*3.14/180.0) * M.rotateY(yangle)
+    M = Matrix4f::translation(pos_offset[0],pos_offset[1],0)* Matrix4f::rotateX(xangle) * M.rotateX(rox*3.14/180.0) * M.rotateY(yangle)
      * M.rotateY(roy*3.14/180.0)
      * M.rotateZ(roz*3.14/180.0)
-     * Matrix4f::translation(pos_offset[0],pos_offset[1],0);
+     * Matrix4f::scaling(coef,coef,coef) ;
     //  * M.translation(x_bia,y_bia,0);;
     //Q:why those rotate are not model-center-based
     // beacuse our rotate is base on (0,0,0)

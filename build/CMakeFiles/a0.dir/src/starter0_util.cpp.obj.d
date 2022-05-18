@@ -1,0 +1,34 @@
+CMakeFiles/a0.dir/src/starter0_util.cpp.obj: \
+ C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/starter0_util.cpp \
+ C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/starter0_util.h \
+ C:/msys64/mingw64/include/c++/11.2.0/cstdint \
+ C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/mingw64/include/c++/11.2.0/pstl/pstl_config.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stdint.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/stddef.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/src/gl.h \
+ C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glew/include/GL/glew.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/inttypes.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/GL/glu.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/GL/gl.h \
+ C:/Users/11725/OneDrive/live/6.837/comp_graphics/assignment_handouts/assn0/assn0/6.837_assign1/glfw/include/GLFW/glfw3.h \
+ C:/msys64/mingw64/include/c++/11.2.0/cstdio \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/msys64/mingw64/include/c++/11.2.0/cstring \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/string.h \
+ C:/msys64/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h

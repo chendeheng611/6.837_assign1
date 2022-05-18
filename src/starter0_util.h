@@ -28,6 +28,7 @@ layout(location=1) in vec3 Normal;
 // In GLSL 3.30, corresponding variables in the
 // fragment shader must have the same name.
 out vec4 var_Color;
+out vec4 normal_world;
 //定义的in 和 out
 
 
@@ -98,7 +99,9 @@ void main () {
 
 static const char* c_fragmentshader = R"RAWSTR(
 #version 330
+
 in vec4 var_Color;
+in vec4 normal_world;
 
 layout(location=0) out vec4 out_Color;
 
@@ -114,6 +117,7 @@ layout(location=0) out vec4 out_Color;
 
 void main () {
 
+    
     out_Color = var_Color ;
 }
 )RAWSTR";
